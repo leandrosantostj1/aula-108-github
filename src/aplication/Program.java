@@ -5,6 +5,7 @@ public class Program {
 	public static void main(String[] args) {
 		// aula 108
 		System.out.println("Bom dia!");
+		System.out.println("Boa tarde!");
 	}
 
 }
